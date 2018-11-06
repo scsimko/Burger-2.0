@@ -4,7 +4,9 @@
 	display: flex;
 	min-height: 100vh;
 	flex-direction: column;
-    background-color: orange;
+    background: oldlace;
  }
- 
 
+h1, h2{
+    text-align: center;
+}
