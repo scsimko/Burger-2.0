@@ -1,7 +1,6 @@
-// Dependencies
+
 var mysql = require('mysql');
 
-// Set Up
 var connection;
 
 if (process.env.JAWSDB_URL) {
