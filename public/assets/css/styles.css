@@ -4,8 +4,10 @@
 	display: flex;
 	min-height: 200vh;
 	flex-direction: column;
-    background: oldlace;
     text-align: start;
+    background: url("../images/burger.png");
+    background-size: 500px;
+    background-repeat: no-repeat;
  }
 
 h1, h2{
